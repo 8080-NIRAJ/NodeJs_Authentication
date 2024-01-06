@@ -14,8 +14,7 @@ Nodejs, Express, MongoDB, Mongoose, Passport, EJS, HTML, CSS, JavaScript, Bootst
 2. Start the server: `npm start`
 3. Visit the app: `http://localhost:3500`
 
-## Live Demo
-https://nodejs-authentication-b7ou.onrender.com
+
 
 
 ## Folder Structure
