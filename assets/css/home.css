@@ -1,0 +1,23 @@
+.home-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    width: 60vw;
+    height: 50vh;
+    background-color: rgba(237, 236, 245, 0.6);
+    
+    margin: auto;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background: rgb(247, 208, 182) url("./img/download.jpeg");
+    
+}
