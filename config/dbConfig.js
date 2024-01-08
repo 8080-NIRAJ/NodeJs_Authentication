@@ -5,7 +5,6 @@ const password = 'Niraj8999';
 
 // Create the MongoDB connection URL with the encoded password
 
-//const dbURI = `mongodb+srv://manianil8423:${password}@cluster0.p4pyoxg.mongodb.net/?retryWrites=true&w=majority`;
 const dbURI = `mongodb+srv://Niraj80:${password}@cluster0.mzowurg.mongodb.net/`;
 // Connect to the MongoDB server with the provided URL and options (none specified in this case)
 
